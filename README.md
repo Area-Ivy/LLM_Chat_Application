@@ -50,7 +50,6 @@ pip install -r requirements.txt
 
 ## 项目运行
 
-* 运行
 ```
 python app.py
 ```
