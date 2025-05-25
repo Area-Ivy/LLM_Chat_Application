@@ -6,9 +6,9 @@ LLM_Chat_Application
 
 ## 项目简介
 
-Reinforcement Learning Lab: Flappy Bird Game Based on Deep Q-Network.
+Gradio-based LLM Chat Application.
 
-强化学习实验：基于 Deep Q-Network 的 Flappy Bird 游戏。
+基于 Gradio 构建的大语言模型对话应用。
 
 功能点实现
 - 基础对话功能：可以成功的调用LLM模型的API来回答用户的问题，存在基本的输入输出的页面。
@@ -16,6 +16,8 @@ Reinforcement Learning Lab: Flappy Bird Game Based on Deep Q-Network.
 - 历史记录功能：可以记录用户之前同LLM的对话历史记录，并且可以选择之前的历史记录继续聊天。
 - 模型切换功能：用户可以再同一对话下自由切换响应模型，以对比不同的模型回答内容。
 
+> ***Relevant course***
+> * Human Computer Interface 2025 (2025年同济大学用户交互技术)
 
 ## 项目组成
 
