@@ -171,7 +171,7 @@ with gr.Blocks(
             chatbot = gr.Chatbot(
                 height=600,
                 bubble_full_width=False,
-                avatar_images=("bot.png", "user.png"),
+                avatar_images=("./assert/bot.png", "./assert/user.png"),
                 elem_classes=["chatbox"],
                 show_label=False
             )
