@@ -35,24 +35,24 @@ Reinforcement Learning Lab: Flappy Bird Game Based on Deep Q-Network.
 
 * 创建虚拟环境
 ```
-`python -m venv venv`
+python -m venv venv
 ```
 
-* 激活虚拟环境（Windows）
+* 激活虚拟环境
 ```
-`venv\Scripts\activate`
+venv\Scripts\activate
 ```
 
 * 安装依赖
 ```
-`pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 
 ## 项目运行
 
 * 运行
 ```
-`python app.py`
+python app.py
 ```
 
 ## 文档更新日期
