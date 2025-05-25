@@ -4,9 +4,9 @@ import uuid
 from datetime import datetime
 
 API_KEYS = {
-    "deepseek": "sk-917f533af78f4b35a8a7512740a36e46",
-    "kimi": "sk-ngURjHDSzRY8LvlmjJAmxX3ni2KDrwuLjksMuTOQEWxEJAko",
-    "tongyi": "sk-5fe1207acac44d78a2d88d514afedce9"
+    "deepseek": "your_deepseek_key",
+    "kimi": "your_kimi_key",
+    "tongyi": "your_tongyi_key"
 }
 
 MODEL_ENDPOINTS = {
