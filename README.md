@@ -35,7 +35,7 @@ Gradio-based LLM Chat Application.
 
 ## 环境搭建
 
-* 创建虚拟环境
+* 创建虚拟环境（需要python3.10以上，若不满足需求需用conda创建环境）
 ```
 python -m venv venv
 ```
