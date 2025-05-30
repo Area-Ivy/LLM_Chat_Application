@@ -50,12 +50,11 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 项目运行
+## 项目运行（运行前请把把`app.py`中的 API Keys 换成自己持有的有效 Key）
 
 ```
 python app.py
 ```
-> 运行前请把把`app.py`中的 API Keys 换成自己持有的有效 Key。
 
 ## 文档更新日期
 
