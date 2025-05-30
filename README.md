@@ -19,8 +19,6 @@ Gradio-based LLM Chat Application.
 - 历史记录功能：可以记录用户之前同LLM的对话历史记录，并且可以选择之前的历史记录继续聊天。
 - 模型切换功能：用户可以再同一对话下自由切换响应模型，以对比不同的模型回答内容。
 
-> 运行前请把把`app.py`中的 API Keys 换成自己持有的有效 Key。
-
 ## 项目组成
 
 * `/assets`
@@ -57,6 +55,7 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+> 运行前请把把`app.py`中的 API Keys 换成自己持有的有效 Key。
 
 ## 文档更新日期
 
